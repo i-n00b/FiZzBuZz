@@ -12,7 +12,7 @@ for ((i=1;i<=100;i++)); do
     elif ! ((i%15)); then
         echo FizzBuzz
     else
-        echo $i
+        echo $j
     fi;
 done
 
