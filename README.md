@@ -1,6 +1,27 @@
 ## THE FIZZBUZZ CHALLENGE
 
-The FIZZBUZZ challenge is popular all over the world. It is as follows: print all numbers from 1 to 100. If the number is divisible by 3, print *FIZZ* instead of the number. If the number is divisible by 5, print *BUZZ*. If the number is divisible by both 3 and 5, print *FIZZBUZZ*. 
+The FIZZBUZZ challenge is popular all over the world. It is as follows: print all numbers from 1 to 100. If the number is divisible by 3, print *FIZZ* instead of the number. If the number is divisible by 5, print *BUZZ*. If the number is divisible by both 3 and 5, print *FIZZBUZZ*. The output looks like this:
+
+```
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+.
+.
+```
 
 ---
 
