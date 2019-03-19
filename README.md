@@ -36,7 +36,7 @@ You are asked to investigate and find out if there is a bug in the product (oh n
 Download the module from the repository and run it.
 1. Clone the Github repository on to your system.
 2. Using the terminal, navigate to the directory and try to execute the FizzBuzz.sh script? Can you run it? Why or why not?
-3. Can you fix the problem to run it? (Optional) If it makes sense, you can pipe the outputs to a temporary log file.
+3. Can you fix the problem to run it?
 4. Is the output of the module correct? Why or why not?
 5. Can you find the bug if it exists in the code?  If yes, try to fix the bug and make sure it gives the correct output.
 
