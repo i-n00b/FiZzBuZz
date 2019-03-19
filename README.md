@@ -6,6 +6,8 @@ You work in an organization which writes professional FizzBuzz scripts. Customer
 
 **_"...literaly  the wosrt fizzbuzz product I’ve ever used 0/10"._**
 
+---
+
 You are asked to investigate and find out if there is a bug in the product (oh no). 
 
 Download the module from the repository and run it.
