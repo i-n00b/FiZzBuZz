@@ -1,9 +1,10 @@
-FIZZBUZZ CHALLENGE:
-The FIZZBUZZ challenge is popular all over the world. The challenge is as follows: print all numbers from 1 to 100. If the number is divisible by 3, print FIZZ instead of the number. If the number is divisible by 5, print BUZZ. If the number is divisible by both 3 and 5, print FIZZBUZZ. 
+## THE FIZZBUZZ CHALLENGE
 
-You work in an organization which writes professional FizzBuzz scripts. Customers can download your module from this repository and run it to generate their FizzBuzz sequences. On day 1 of your organization’s new product release ‘FiZzBuZz', an angry customer posts on your forum:
+The FIZZBUZZ challenge is popular all over the world. It is as follows: print all numbers from 1 to 100. If the number is divisible by 3, print *FIZZ* instead of the number. If the number is divisible by 5, print *BUZZ*. If the number is divisible by both 3 and 5, print *FIZZBUZZ*. 
 
-"...this is leterally  the wosrt fizzbuzz product I’ve ever used 0/10". 
+You work in an organization which writes professional FizzBuzz scripts. Customers can download your module from this repository and run it to generate their FizzBuzz sequences. On day 1 of your organization’s new product release ‘**_FiZzBuZz_**', an angry customer posts on your forum:
+
+**_"...literaly  the wosrt fizzbuzz product I’ve ever used 0/10"._**
 
 You are asked to investigate and find out if there is a bug in the product (oh no). 
 
